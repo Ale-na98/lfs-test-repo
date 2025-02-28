@@ -1,2 +1,2 @@
 [lfs]
-	url = http://10.8.64.180:8080
+	url = http://localhost:5000/lfs
